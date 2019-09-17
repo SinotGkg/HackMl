@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+#usr/bin/berkarya
+#Coders:Rusmana
+#Aku sayang kamu Reni Martini [Iren anya]
+#semoga kita bisa bertemu amiin
+
+clear
+figlet "Rusmana" | lolcat
+
+	echo """
+	\033[34;1m
